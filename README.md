@@ -1,2 +1,2 @@
 # errors
-Flying Jamnik errros wchich are using in all flying jamnik packages.
+Flying Gopher errros wchich are using in all flying jamnik packages.
